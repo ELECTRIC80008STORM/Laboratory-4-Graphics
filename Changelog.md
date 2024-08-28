@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 - Spheres are added to North Area
+- Cylinders are added to the South Area
 
 ### Changed
 
