@@ -8,19 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.0.1] - UNRELEASED
 
 ### Added
-- Spheres are added to North Area
-- Cylinders are added to the South Area
-
-### Changed
-
-### Deprecated
-
-### Removed
-z
-### Fixed
-
-### Security
-
+- Spheres are added to North Area (10/11/2022).
+- Cylinders are added to the South Area (10/11/2022).
 
 ## [0.0.0] - 10/11/2022
 
