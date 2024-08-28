@@ -1,10 +1,22 @@
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [0.0.1] - UNRELEASED
+
+### Added
+- Spheres are added to North Area (10/11/2022).
+- Cylinders are added to the South Area (10/11/2022).
+
 ## [0.0.0] - 10/11/2022
 
 ### Added 
 
-- Initial commit (27/8/2024).
-- Update .gitignore (27/8/2024).
-- Upload files of Part 3 (27/8/2024).
-- Upload files (27/8/2024).
-- Upload files (27/8/2024).
-- Upload files (27/8/2024).
+- Commit inicial del proyecto (10/11/2022).
+- Primer commit del proyecto (10/11/2022).
+- Actualización inicial de la escena (10/11/2022).
+- Creación de prefabs (10/11/2022).
+- Update North Prefab (10/11/2022).
